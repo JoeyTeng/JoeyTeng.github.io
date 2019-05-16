@@ -10,6 +10,13 @@ github_username: JoeyTeng
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+# Analytics settings
+# Google Analytics
+ga_track_id: 'UA-140346236-1'
+ga_domain: auto
+# Baidu Analytics
+ba_track_id: e821c719bf561d4e6c0c6e5e49769883
+
 theme: jekyll-theme-architect
 
 url: "https://joeyteng.github.io"
