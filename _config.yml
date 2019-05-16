@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
+url: "https://joeyteng.github.io"
 plugins:
   - jekyll-sitemap
