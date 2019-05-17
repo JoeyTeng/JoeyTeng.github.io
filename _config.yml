@@ -13,6 +13,9 @@ github_username: JoeyTeng
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+# Pagination
+paginate: 5
+
 # Analytics settings
 # Google Analytics
 ga_track_id: 'UA-140346236-1'
