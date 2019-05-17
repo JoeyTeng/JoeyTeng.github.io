@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "First Post"
 date: 2019-05-16
 ---
